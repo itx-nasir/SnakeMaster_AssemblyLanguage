@@ -1,3 +1,9 @@
+; ===================================================================
+; Snake Game - Assembly Implementation
+; 
+; This game uses VGA mode 12h (640x480) with 16 colors
+; Controls: Arrow keys to move, ESC to exit
+; ===================================================================
 .model small
 .stack 100h
 .data
