@@ -1,1 +1,19 @@
-Snake.asm
+# Compiled files
+*.obj
+*.exe
+*.com
+*.bin
+
+# Backup files
+*.bak
+
+# Editor files
+*.swp
+*~
+
+# DOS/Windows specific
+Thumbs.db
+Desktop.ini
+
+# Other
+*.logs
