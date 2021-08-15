@@ -1,0 +1,3 @@
+TASM (Turbo Assembler) or compatible assembler
+DOS environment or DOSBox emulator
+16-color VGA compatible display
