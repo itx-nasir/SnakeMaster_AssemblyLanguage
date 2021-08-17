@@ -16,4 +16,5 @@ Thumbs.db
 Desktop.ini
 
 # Other
-*.logs
+*.log
+*.tmp

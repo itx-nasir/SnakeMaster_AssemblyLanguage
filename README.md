@@ -46,3 +46,28 @@ To run this game, you'll need:
 2. DOS environment or DOSBox emulator
 
 ### Assembly and Execution
+
+## Installation
+
+1. Clone this repository:
+   ```
+   git clone https://github.com/yourusername/SnakeGame.git
+   ```
+
+2. Make sure you have TASM (Turbo Assembler) installed or use DOSBox with TASM.
+
+3. Navigate to the source directory:
+   ```
+   cd SnakeGame/src
+   ```
+
+4. Assemble and link the program:
+   ```
+   tasm FinalSnakeGame.asm
+   tlink FinalSnakeGame.obj
+   ```
+
+5. Run the executable:
+   ```
+   FinalSnakeGame.exe
+   ```
