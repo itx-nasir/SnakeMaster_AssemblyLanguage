@@ -2,7 +2,6 @@
 
 A classic Snake game implemented in x86 Assembly language. This project was developed as part of my university coursework to demonstrate low-level programming skills and hardware interaction.
 
-![Snake Game](assets/screenshots/placeholder.png)
 
 ## Features
 
